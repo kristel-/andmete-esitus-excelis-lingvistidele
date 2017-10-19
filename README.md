@@ -1,4 +1,4 @@
-## FLEE.08.103 Arvuti kasutamine keeleuurimisel Exceli õppematerjalid.
+## FLEE.08.103 Arvuti kasutamine keeleuurimisel Exceli õppematerjalid
 
 Käsileht: `exceli-kasileht-2017.md`
 
